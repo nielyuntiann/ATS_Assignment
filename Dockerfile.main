@@ -1,0 +1,19 @@
+
+# Dockerfile.app
+FROM python:3.9-slim
+
+# Set working directory inside container
+WORKDIR /app
+
+# Copy the entire project into the container
+COPY . /app
+
+# Install dependencies
+# If you have a requirements.txt, use that instead of installing Flask directly
+RUN pip install --no-cache-dir flask
+
+# Expose the Flask app port
+EXPOSE 8000
+
+# Run the main app
+CMD ["python3", "app.py"]

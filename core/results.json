@@ -1,0 +1,1598 @@
+[
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 14:57:24",
+    "raw_response": {
+      "latency_ms": 89,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:24",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 14:57:26",
+    "raw_response": {
+      "latency_ms": 10,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:26",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 14:57:31",
+    "raw_response": {
+      "latency_ms": 11,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:31",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 14:57:31",
+    "raw_response": {
+      "latency_ms": 76,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:31",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 14:57:36",
+    "raw_response": {
+      "latency_ms": 58,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:36",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 14:57:38",
+    "raw_response": {
+      "latency_ms": 14,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:38",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 14:57:41",
+    "raw_response": {
+      "latency_ms": 32,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:41",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 14:57:45",
+    "raw_response": {
+      "latency_ms": 41,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:45",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 14:57:46",
+    "raw_response": {
+      "latency_ms": 28,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:46",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 14:57:51",
+    "raw_response": {
+      "latency_ms": 23,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:51",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 14:57:53",
+    "raw_response": {
+      "latency_ms": 81,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:53",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 14:57:57",
+    "raw_response": {
+      "latency_ms": 61,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:57:57",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 14:58:00",
+    "raw_response": {
+      "latency_ms": 96,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 14:58:00",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 4016,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:40:29",
+    "raw_response": {
+      "latency_ms": 83,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:29",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:40:33",
+    "raw_response": {
+      "latency_ms": 56,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:33",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 2,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:40:33",
+    "raw_response": {
+      "latency_ms": 87,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:33",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:40:38",
+    "raw_response": {
+      "latency_ms": 75,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:38",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:40:40",
+    "raw_response": {
+      "latency_ms": 81,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:40",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:40:43",
+    "raw_response": {
+      "latency_ms": 60,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:43",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:40:47",
+    "raw_response": {
+      "latency_ms": 68,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:47",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:40:48",
+    "raw_response": {
+      "latency_ms": 44,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:48",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:40:53",
+    "raw_response": {
+      "latency_ms": 82,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:53",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:40:54",
+    "raw_response": {
+      "latency_ms": 57,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:54",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:40:58",
+    "raw_response": {
+      "latency_ms": 83,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:40:58",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:01",
+    "raw_response": {
+      "latency_ms": 35,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:01",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:03",
+    "raw_response": {
+      "latency_ms": 74,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:03",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 15,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:08",
+    "raw_response": {
+      "latency_ms": 73,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:08",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:08",
+    "raw_response": {
+      "latency_ms": 42,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:08",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:13",
+    "raw_response": {
+      "latency_ms": 11,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:13",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:15",
+    "raw_response": {
+      "latency_ms": 31,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:15",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:18",
+    "raw_response": {
+      "latency_ms": 81,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:18",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:22",
+    "raw_response": {
+      "latency_ms": 11,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:22",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:23",
+    "raw_response": {
+      "latency_ms": 54,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:23",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:28",
+    "raw_response": {
+      "latency_ms": 44,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:28",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:29",
+    "raw_response": {
+      "latency_ms": 34,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:29",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:33",
+    "raw_response": {
+      "latency_ms": 44,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:33",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:36",
+    "raw_response": {
+      "latency_ms": 49,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:36",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:38",
+    "raw_response": {
+      "latency_ms": 53,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:38",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:43",
+    "raw_response": {
+      "latency_ms": 85,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:43",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:43",
+    "raw_response": {
+      "latency_ms": 10,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:43",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:48",
+    "raw_response": {
+      "latency_ms": 74,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:48",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:50",
+    "raw_response": {
+      "latency_ms": 40,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:50",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:53",
+    "raw_response": {
+      "latency_ms": 50,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:53",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:41:57",
+    "raw_response": {
+      "latency_ms": 90,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:57",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:41:58",
+    "raw_response": {
+      "latency_ms": 37,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:41:58",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:03",
+    "raw_response": {
+      "latency_ms": 75,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:03",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 3,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:04",
+    "raw_response": {
+      "latency_ms": 35,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:04",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:08",
+    "raw_response": {
+      "latency_ms": 22,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:08",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:11",
+    "raw_response": {
+      "latency_ms": 11,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:11",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:13",
+    "raw_response": {
+      "latency_ms": 15,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:13",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:18",
+    "raw_response": {
+      "latency_ms": 82,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:18",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:18",
+    "raw_response": {
+      "latency_ms": 21,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:18",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:23",
+    "raw_response": {
+      "latency_ms": 72,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:23",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:25",
+    "raw_response": {
+      "latency_ms": 86,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:25",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:28",
+    "raw_response": {
+      "latency_ms": 95,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:28",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:32",
+    "raw_response": {
+      "latency_ms": 88,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:32",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:33",
+    "raw_response": {
+      "latency_ms": 48,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:33",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:38",
+    "raw_response": {
+      "latency_ms": 39,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:38",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:39",
+    "raw_response": {
+      "latency_ms": 96,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:39",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:43",
+    "raw_response": {
+      "latency_ms": 39,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:43",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:46",
+    "raw_response": {
+      "latency_ms": 47,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:46",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:48",
+    "raw_response": {
+      "latency_ms": 98,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:48",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:53",
+    "raw_response": {
+      "latency_ms": 22,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:53",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:42:53",
+    "raw_response": {
+      "latency_ms": 64,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:53",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:42:58",
+    "raw_response": {
+      "latency_ms": 15,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:42:58",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:00",
+    "raw_response": {
+      "latency_ms": 47,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:00",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:03",
+    "raw_response": {
+      "latency_ms": 27,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:03",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:07",
+    "raw_response": {
+      "latency_ms": 95,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:07",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:09",
+    "raw_response": {
+      "latency_ms": 32,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:08",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:14",
+    "raw_response": {
+      "latency_ms": 83,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:14",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:15",
+    "raw_response": {
+      "latency_ms": 18,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:15",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:19",
+    "raw_response": {
+      "latency_ms": 69,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:19",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:22",
+    "raw_response": {
+      "latency_ms": 59,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:22",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 10,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:24",
+    "raw_response": {
+      "latency_ms": 46,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:24",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 10,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:29",
+    "raw_response": {
+      "latency_ms": 33,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:29",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:29",
+    "raw_response": {
+      "latency_ms": 45,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:29",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:34",
+    "raw_response": {
+      "latency_ms": 64,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:34",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:36",
+    "raw_response": {
+      "latency_ms": 87,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:36",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:39",
+    "raw_response": {
+      "latency_ms": 41,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:39",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:43",
+    "raw_response": {
+      "latency_ms": 15,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:43",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:44",
+    "raw_response": {
+      "latency_ms": 30,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:44",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:43:49",
+    "raw_response": {
+      "latency_ms": 80,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:49",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 9,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:43:50",
+    "raw_response": {
+      "latency_ms": 56,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:43:50",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:49:48",
+    "raw_response": {
+      "latency_ms": 10,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:49:48",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 3,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:49:48",
+    "raw_response": {
+      "latency_ms": 95,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:49:48",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:49:53",
+    "raw_response": {
+      "latency_ms": 85,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:49:53",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:49:55",
+    "raw_response": {
+      "latency_ms": 85,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:49:55",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:49:58",
+    "raw_response": {
+      "latency_ms": 83,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:49:58",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 8,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:50:02",
+    "raw_response": {
+      "latency_ms": 38,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:02",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:50:03",
+    "raw_response": {
+      "latency_ms": 39,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:03",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:50:08",
+    "raw_response": {
+      "latency_ms": 58,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:08",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:50:09",
+    "raw_response": {
+      "latency_ms": 53,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:09",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:50:13",
+    "raw_response": {
+      "latency_ms": 35,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:13",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:50:16",
+    "raw_response": {
+      "latency_ms": 51,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:16",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 4,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:50:18",
+    "raw_response": {
+      "latency_ms": 82,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:18",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 6,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:50:23",
+    "raw_response": {
+      "latency_ms": 20,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:23",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 5,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:50:23",
+    "raw_response": {
+      "latency_ms": 36,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:23",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "1.2.0",
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:50:28",
+    "raw_response": {
+      "latency_ms": 46,
+      "service": "User API",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:28",
+      "version": "1.2.0"
+    }
+  },
+  {
+    "name": "Auth Service",
+    "uri": "http://localhost:5000/version",
+    "status": "UP",
+    "latency_ms": 7,
+    "version": "3.5.1",
+    "expected_version": "3.5.1",
+    "timestamp": "2026-03-02 15:50:30",
+    "raw_response": {
+      "latency_ms": 62,
+      "service": "Auth Service",
+      "status": "UP",
+      "timestamp": "2026-03-02 15:50:30",
+      "version": "3.5.1"
+    }
+  },
+  {
+    "name": "User API",
+    "uri": "http://localhost:4000/health",
+    "status": "DOWN",
+    "latency_ms": null,
+    "version": null,
+    "expected_version": "1.2.0",
+    "timestamp": "2026-03-02 15:50:33",
+    "raw_response": {
+      "error": "HTTPConnectionPool(host='localhost', port=4000): Max retries exceeded with url: /health (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=4000): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    }
+  }
+]

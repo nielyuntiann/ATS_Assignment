@@ -1,0 +1,155 @@
+
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom right, #f8fafc, #f1f5f9);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 2rem;
+}
+
+/* Header */
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0f172a;
+}
+
+p.subtitle {
+  color: #64748b;
+  font-size: 0.9rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+/* Range buttons */
+.range-buttons button {
+  margin-left: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  border: 1px solid #cbd5e1;
+  background: white;
+  cursor: pointer;
+}
+
+.range-buttons button.active {
+  background: #0f172a;
+  color: white;
+}
+
+/* Grid layouts */
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.grid-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* Card styling */
+.card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* KPI cards */
+.kpi-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: #64748b;
+}
+
+.kpi-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #0f172a;
+}
+
+/* Service filter buttons */
+.service-filter {
+  margin: 1rem 0;
+}
+
+.service-filter button {
+  margin: 0.3rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  border: 1px solid #cbd5e1;
+  background: white;
+  cursor: pointer;
+}
+
+.service-filter button.active {
+  background: #0f172a;
+  color: white;
+  border-color: #0f172a;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th {
+  text-align: left;
+  padding: 0.6rem;
+  background: #f1f5f9;
+  color: #64748b;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+td {
+  padding: 0.6rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+/* Status badges */
+.status-badge {
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  border: 1px solid;
+}
+
+.healthy {
+  background: #ecfdf5;
+  color: #059669;
+  border-color: #a7f3d0;
+}
+
+.degraded {
+  background: #fffbeb;
+  color: #d97706;
+  border-color: #fde68a;
+}
+
+.down {
+  background: #fef2f2;
+  color: #dc2626;
+  border-color: #fecaca;
+}

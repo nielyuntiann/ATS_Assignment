@@ -1,0 +1,19 @@
+
+# Dockerfile.mock
+FROM python:3.9-slim
+
+# Set working directory inside container
+WORKDIR /app
+
+# Copy the entire project into the container
+COPY . /app
+
+# Install Flask (and any other dependencies you may need)
+# If you have a requirements.txt, use that instead
+RUN pip install --no-cache-dir flask
+
+# Expose both service ports
+EXPOSE 4000 5000
+
+# Run the mock services script
+CMD ["python3", "start_mock_services.py"]
